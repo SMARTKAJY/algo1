@@ -1,4 +1,4 @@
-# algo1
+# JUSTIN_Marie_Cynthia
 ¨ALGORITHME DE BASE
 Il faut :
    *de l' eau 
